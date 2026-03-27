@@ -41,18 +41,18 @@ Telegram bot ecosystem built in Python with a separate Next.js site.
 - Site: [goyai.tech](https://goyai.tech)
 - Repository: private
 
-### Heroku
+### Heroku userbot modules
 
 Telegram userbot modules for automation and chat workflows.
 
-- Type: userbot modules
+- Type: Telegram userbot modules
 - Focus: automation, utilities, chat logic, extensibility
 - Repository: private / not public
 
-### Security / Python tools
+### Userbot modules
 
-- [GoySecurity](https://github.com/sepiol026-wq/GoySecurity) — Python security-oriented project
-- [goypulse](https://github.com/sepiol026-wq/goypulse) — Python project in the same ecosystem
+- [GoySecurity](https://github.com/sepiol026-wq/GoySecurity) — module for Heroku userbot
+- [goypulse](https://github.com/sepiol026-wq/goypulse) — module for Heroku userbot
 
 ## Categories
 
