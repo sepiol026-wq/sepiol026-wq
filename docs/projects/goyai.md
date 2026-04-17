@@ -1,16 +1,16 @@
 # GOYAI
 
-Telegram bot ecosystem built in Python with a separate Next.js site.
+Independent AI project: model + product site.
 
 Links:
 
 - Telegram: [@goy_ai](https://t.me/goy_ai)
 - Bot: [@goy_aibot](https://t.me/goy_aibot)
 - Site: [goyai.tech](https://goyai.tech)
-- Repository: private
+- Repository: no public repository (site only)
 
 Focus:
 
-- bot workflows
-- product presentation
-- fast UI on the web side
+- custom AI model development
+- product presentation on goyai.tech
+- fast web UI on the public site
