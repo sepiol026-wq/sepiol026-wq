@@ -1,7 +1,7 @@
 <h1 align="center">sepiol026-wq</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=920&lines=Fullstack+Python+%2F+Next.js;Bug+bounty+%26+web+security;Telegram+automation+and+practical+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=920&lines=Fullstack+Python+%2F+Next.js;Bug+bounty+%26+web+security;AI+products+and+Telegram+automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,39 +27,34 @@ I build in Python and JavaScript, with a strong bias toward security, automation
 Current focus:
 - bug bounty and web security research
 - fullstack development with Python and Next.js
-- Telegram automation and userbot modules
+- AI product development (GOYAI) and Telegram automation modules
 - tooling that stays practical, fast, and maintainable
 
 ## Projects
 
 ### GOYAI
 
-Telegram bot ecosystem built in Python with a separate Next.js site.
+Independent AI project with a Python-based model and a separate Next.js site.
 
 - Telegram: [@goy_ai](https://t.me/goy_ai)
 - Bot: [@goy_aibot](https://t.me/goy_aibot)
 - Site: [goyai.tech](https://goyai.tech)
-- Repository: private
+- Repository: no public repository (site is standalone)
 
-### Heroku userbot modules
+### heroku-userbot modules
 
 Telegram userbot modules for automation and chat workflows.
 
 - Type: Telegram userbot modules
 - Focus: automation, utilities, chat logic, extensibility
-- Repository: private / not public
-
-### Userbot modules
-
-- [GoySecurity](https://github.com/sepiol026-wq/GoySecurity) — module for Heroku userbot
-- [goypulse](https://github.com/sepiol026-wq/goypulse) — module for Heroku userbot
+- Public repository: [GoyModules](https://github.com/sepiol026-wq/GoyModules)
 
 ## Categories
 
 | Category | What is here |
 | --- | --- |
-| `AI / automation` | GOYAI, Telegram bot logic, workflow automation |
-| `Userbot modules` | Heroku modules for Telegram automation |
+| `AI / automation` | GOYAI model + goyai.tech, Telegram workflows |
+| `Userbot modules` | GoyModules and related heroku-userbot modules |
 | `Security` | GoySecurity, goypulse, bug bounty-related work |
 
 ## Stack

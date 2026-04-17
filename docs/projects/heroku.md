@@ -1,6 +1,10 @@
-# Heroku
+# heroku-userbot
 
 Telegram userbot modules for automation, utilities, and chat workflows.
+
+Repository:
+
+- [GoyModules](https://github.com/sepiol026-wq/GoyModules)
 
 Focus:
 

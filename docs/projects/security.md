@@ -9,6 +9,6 @@ Public projects:
 
 Context:
 
-- bug bounty and web security
+- bug bounty and web security research
 - tooling for research and testing
 - Python-first development
