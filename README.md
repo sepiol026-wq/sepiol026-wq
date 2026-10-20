@@ -20,4 +20,6 @@
 
 <a href="https://www.0xvector.lol"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Vector"></picture></a>&nbsp;&nbsp;<a href="https://github.com/GoyGram/GoyGram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="GoyGram"></picture></a>&nbsp;&nbsp;<a href="https://github.com/HotaruProject/Hotaru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-3-dark.svg"><img src="assets/button-3-light.svg" width="auto" alt="Hotaru Userbot"></picture></a>&nbsp;&nbsp;<a href="https://github.com/sepiol026-wq?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-4-dark.svg"><img src="assets/button-4-light.svg" width="auto" alt="All repositories"></picture></a>
 
+<a href="https://metawka.github.io/expressive-profile/?from=sepiol026-wq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
