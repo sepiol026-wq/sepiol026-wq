@@ -1,5 +1,5 @@
 {
- "key": "cf60e1d9",
+ "key": "fc3a1844",
  "stars": 9,
  "contributions": 4946,
  "repos": 7,
@@ -124,15 +124,19 @@
    {
     "c": 0,
     "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 14,
+  "current": 0,
   "longest": 25
  },
  "pins": [],
