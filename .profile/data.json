@@ -1,5 +1,5 @@
 {
- "key": "fc3a1844",
+ "key": "ebc3926e",
  "stars": 9,
  "contributions": 4946,
  "repos": 7,
@@ -129,9 +129,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
