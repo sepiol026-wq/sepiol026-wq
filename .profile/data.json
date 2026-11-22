@@ -1,13 +1,13 @@
 {
- "key": "3c785dcd",
+ "key": "69e2e42",
  "stars": 9,
- "contributions": 4946,
+ "contributions": 4947,
  "repos": 7,
  "followers": 9,
  "languages": [
   [
    "Python",
-   4014718
+   4001244
   ],
   [
    "TypeScript",
@@ -31,43 +31,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 53,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 101,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 19,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 18,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 94,
@@ -137,14 +100,27 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 25
  },
  "pins": [],
