@@ -1,33 +1,37 @@
 {
- "key": "69e2e42",
- "stars": 9,
- "contributions": 4947,
- "repos": 7,
+ "key": "b3483100",
+ "stars": 13,
+ "contributions": 5000,
+ "repos": 8,
  "followers": 9,
  "languages": [
   [
    "Python",
-   4001244
+   134488216
   ],
   [
    "TypeScript",
-   472582
-  ],
-  [
-   "CSS",
-   22953
-  ],
-  [
-   "HTML",
-   8839
+   47279516
   ],
   [
    "JavaScript",
-   8076
+   3350769
   ],
   [
-   "Cython",
-   6949
+   "TeX",
+   434491
+  ],
+  [
+   "CSS",
+   373558
+  ],
+  [
+   "Rust",
+   295836
+  ],
+  [
+   "Nix",
+   260598
   ]
  ],
  "days": [
@@ -63,7 +67,7 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 16,
     "day": 14,
     "today": false
    }
@@ -107,11 +111,15 @@
   ],
   [
    {
-    "c": 0,
+    "c": 31,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -120,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 3,
   "longest": 25
  },
  "pins": [],
@@ -130,7 +138,7 @@
    "url": "https://github.com/sepiol026-wq/telegram-id-age-research",
    "text": "An offline Telegram ID age estimator and a chronological research report, including failed approaches and corrected conclusions.",
    "fork": false,
-   "stars": 3,
+   "stars": 5,
    "language": "Python",
    "topics": [
     "interpolation",
@@ -147,6 +155,26 @@
    "stars": 3,
    "language": "Python",
    "topics": []
+  },
+  {
+   "name": "Kestrel",
+   "url": "https://github.com/sepiol026-wq/Kestrel",
+   "text": "Autonomous AI agent for hacking: penetration testing, red teaming, vulnerability research, reverse engineering and systems operations.",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "ai-agent",
+    "autonomous-agents",
+    "hacking",
+    "llm",
+    "offensive-security",
+    "pentest",
+    "redteam",
+    "reverse-engineering",
+    "security",
+    "telegram-bot"
+   ]
   },
   {
    "name": "GoyModules",
